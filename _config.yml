@@ -53,3 +53,12 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+title: chilmas
+description: ブログ「ちるます」へようこそ！
+baseurl: ""  # 空欄のままでOK（GitHub Pagesのユーザーサイトなので）
+url: "https://chillmas.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
